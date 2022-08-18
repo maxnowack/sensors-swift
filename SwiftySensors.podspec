@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
     spec.license                = { :type => 'MIT', :file => 'LICENSE' }    
     spec.author                 = { 'Kinetic' => 'admin@kinetic.fit' }
     
-    spec.ios.deployment_target  = '8.4'
+    spec.ios.deployment_target  = '12.0'
     spec.osx.deployment_target  = '10.13'
     spec.tvos.deployment_target = '11.2'
 
